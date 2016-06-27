@@ -14,3 +14,5 @@ Below are some guidance notes to keep our repository clean:
 
 - Although the structure and look of the website are important, the main objective of this exercise is to get familiar with version control both on our PC (through Git) and online (through GitHub). As a starting point, the project could start with a HTML file and a CSS file. Any interactivity using JavaScript is also welcome.
 
+- Target completion date: end of August 2016.
+
